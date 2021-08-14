@@ -1,2 +1,2 @@
-# test-config
-used to cloud config
+# 测试spring cloud config
+用于测试spring cloud config
