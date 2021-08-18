@@ -1,5 +1,5 @@
-testdata: producer-one-dev12345678
+testdata: producer-one-dev1
 
 testobj:
-  proone: proone2345678
-  protwo: protwo2345678
+  proone: proone1
+  protwo: protwo1
