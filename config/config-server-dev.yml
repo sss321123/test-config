@@ -1,1 +1,5 @@
-data:dev
+testdata: config-server-dev
+
+testobj:
+  proone: proone
+  protwo: protwo
