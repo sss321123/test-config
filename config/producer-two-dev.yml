@@ -1,4 +1,4 @@
-testdata: producer-two-dev,kafka-refresh
+testdata: producer-two-dev,kafka-erureka-config-refresh
 
 testobj: 
   proone: proone123
