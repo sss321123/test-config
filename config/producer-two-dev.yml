@@ -1,5 +1,5 @@
-testdata: producer-two-dev,kafka-erureka-config-refresh
+testdata: producer-two-dev
 
 testobj: 
   proone: proone123
-  protwo: protwo123
+  protwo: protwo123,kafka-erureka-config-refresh
