@@ -2,4 +2,4 @@ testdata: producer-two-dev
 
 testobj: 
   proone: proone123
-  protwo: protwo123,rabbitmq-erureka-config-refresh999
+  protwo: protwo123,rabbitmq-erureka-config-refresh
